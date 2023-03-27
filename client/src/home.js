@@ -59,7 +59,7 @@ export default function Add() {
                     </div>
 
                 </div>
-                <i href="">Inventory</i>
+                <i href="http://ec2-3-83-103-176.compute-1.amazonaws.com:3000">Inventory</i>
             </div>
         </div>
     )
