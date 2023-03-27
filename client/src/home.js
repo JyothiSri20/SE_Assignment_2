@@ -24,7 +24,9 @@ export default function Add() {
 
     return (
         <div className='text'>
+
             <div>
+            <p>Please <a href="http://ec2-3-83-103-176.compute-1.amazonaws.com:3000/">click here</a> to view my Inventory.</p>
                 <div>
                     <p>First number : </p></div>
                 <div>
@@ -59,7 +61,7 @@ export default function Add() {
                     </div>
 
                 </div>
-                <i href="http://ec2-3-83-103-176.compute-1.amazonaws.com:3000">Inventory</i>
+               
             </div>
         </div>
     )
