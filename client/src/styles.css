@@ -1,0 +1,84 @@
+* {
+    box-sizing : border-box
+}
+
+
+.DisplayData{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    margin-top: 15px;
+}
+.DisplayData1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.edit{
+    padding: 4%;
+    color: rgb(0, 0, 0);
+    margin: 4%;
+    
+}
+.edit textarea{
+    color: rgb(0, 0, 0);
+    border: 1px solid;
+    width: 85%;
+}
+.image{
+    width: 250px;
+    height: 250px;
+    border: 3px solid;
+    border-radius: 10%;
+    background-origin: padding-box;
+    padding: auto;
+    margin: 2%;
+}
+.details {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-self: right;
+    text-align:inherit;
+    font-size: 20px;
+}
+
+.button{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    border: 3px solid;
+    border-radius: 2px;
+    background-color: rgb(255, 255, 255);
+    
+}
+
+.nav1 {
+    color: black;
+    align-items: stretch;
+    padding: 0 1rem;
+    display: flex;
+    background-color: rgb(166, 166, 166);
+    justify-content: space-between;
+    gap: 2rem;
+}
+
+.nav1 a {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color: inherit;
+    height: 20px;
+}
+.nav1 ul{
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    gap: 2rem;
+}
+
+.imageicon {
+    height: 30px;
+    width: 30px;
+}
+
+.text {
+    margin: 10%;
+}
+
